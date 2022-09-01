@@ -1,5 +1,5 @@
-# Hi there, my name is 👋
-### My Name is, *King-Diorr*
+# Hi there, my name is
+### *King-Diorr*
 I like to tinker with Web Dev (Nodejs, JS, HTML, CSS etc...), Game Dev (Unity & C#) and some Mobile Dev (Dart, Flutter SDK, Android)
 And if you wanna try and get in contact with me, try here:
 ## [diorrw@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=diorrw@gmail.com)
