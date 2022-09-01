@@ -1,5 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 ### My Name is, *King-Diorr*
+
 - 🌱 I’m currently learning Web Dev (Nodejs, JS, HTML, CSS etc...), Game Dev (Unity & C#) and some Mobile Dev (Dart, Flutter SDK, Android)
 - 📫 You can reach me at diorrw@gmail.com
 
