@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Web Dev (Nodejs, JS, HTML, CSS etc...), Game Dev (Unity & C#) and some Mobile Dev (Dart, Flutter SDK, Android)
+- 📫 You can reach me at diorrw@gmail.com
 
+Check out my website too!
+----
+(kingcode.dev)[https://kingcode.dev]
 <!--
 **KDW1/KDW1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
