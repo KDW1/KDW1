@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there, my name is 👋
 ### My Name is, *King-Diorr*
-
-- 🌱 I’m currently learning Web Dev (Nodejs, JS, HTML, CSS etc...), Game Dev (Unity & C#) and some Mobile Dev (Dart, Flutter SDK, Android)
-- 📫 You can reach me at diorrw@gmail.com
+I like to tinker with Web Dev (Nodejs, JS, HTML, CSS etc...), Game Dev (Unity & C#) and some Mobile Dev (Dart, Flutter SDK, Android)
+And if you wanna try and get in contact with me, try here 
+## [diorrw@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=diorrw@gmail.com)
 
 Check out my website too!
 ----
