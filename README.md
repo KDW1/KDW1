@@ -1,5 +1,5 @@
 # Hi there, I'm **King-Diorr**
-I like to tinker with Web Dev (Nodejs, JS, HTML, CSS etc...), Game Dev (Unity & C#) and some Mobile Dev (Dart, Flutter SDK, Android)
+#### I like to tinker with Web Dev (Nodejs, JS, HTML, CSS etc...), Game Dev (Unity & C#) and some Mobile Dev (Dart, Flutter SDK, Android)
 
 # Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=KDW1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&include_all_issues=false)<br/>
