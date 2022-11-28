@@ -7,7 +7,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KDW1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## And if you wanna try and get in contact with me, try here:
-### [diorrw@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=diorrw@gmail.com)
+### Personal: [diorrw@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=diorrw@gmail.com)
+### School: [kwillsun@exeter.edu](https://mail.google.com/mail/?view=cm&fs=1&to=kwillsun@exeter.edu)
 ### [kingcode.dev](https://kingcode.dev), My Website
 
 <!--
