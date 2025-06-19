@@ -9,7 +9,7 @@
 
 ## And if you wanna try and get in contact with me, try here:
 ### Personal: [diorrw@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=diorrw@gmail.com)
-### School: [kwillsun@exeter.edu](https://mail.google.com/mail/?view=cm&fs=1&to=kwillsun@exeter.edu)
+### School: [kwillsun@mit.edu](https://mail.google.com/mail/?view=cm&fs=1&to=kwillsun@mit.edu)
 ### [kingcode.dev](https://kingcode.dev), My Website
 
 <!--
