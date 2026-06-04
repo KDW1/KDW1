@@ -9,9 +9,7 @@ You can contact me here!
 
 
 ### Github Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=KDW1&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KDW1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=kdw1&theme=radical)
 <!--
 **KDW1/KDW1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
